@@ -1,4 +1,17 @@
-# Obsidian Sample Plugin
+# Fixed Scrolling for Obsidian Pane View
+
+Tasks:
+- Look for scrolling plugins, see how scrolling works, linked pane, typewriter scroll
+- Apply scroll to two panes at once
+- Add hotkey to enable/disable
+- Measure length of file and change relative speed of scroll?
+- Measure length between headings to change speed?
+- Read view/source view functionality changes
+
+
+
+
+## Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
 
