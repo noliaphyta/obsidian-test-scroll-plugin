@@ -7,7 +7,7 @@ Tasks:
 - Measure length of file and change relative speed of scroll?
 - Measure length between headings to change speed?
 - Read view/source view functionality changes
-
+- Sync to headings that are the same, when referencing text or taking notes it changes. Stock obsidian is not a good tool for annotation. Perhaps a dedicated academic resource is necessary, like the rotating monk's table...
 
 
 
